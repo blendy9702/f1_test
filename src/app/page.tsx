@@ -106,11 +106,9 @@ function FooterCTA() {
       <div className="mx-auto w-full max-w-6xl px-4">
         <Card className="text-center">
           <div className="text-lg md:text-xl">
-            트랙별 프리셋과 날씨 필터를 추가로 원하시나요?
+            트랙별 프리셋과 날씨 필터 등, 다양한 정보 추가 예정
           </div>
-          <div className="mt-2 text-foreground/60 text-sm">
-            요청 주시면 빠르게 확장해 드릴게요.
-          </div>
+          <div className="mt-2 text-foreground/60 text-sm">피드백 환영</div>
         </Card>
       </div>
     </section>

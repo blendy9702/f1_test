@@ -63,10 +63,10 @@ function Hero() {
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
-          className="text-4xl md:text-6xl font-semibold tracking-tight gradient-text bg-[length:200%_100%]"
+          className="py-4 text-4xl md:text-6xl font-semibold tracking-tight gradient-text bg-[length:200%_100%]"
           ref={titleRef}
         >
-          F1 25 세팅 가이드
+          F1 25 setting guide
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 10 }}
